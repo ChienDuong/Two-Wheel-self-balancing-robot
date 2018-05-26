@@ -1,0 +1,61 @@
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\bin\Debug\PID CONTROL.exe
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\bin\Debug\PID CONTROL.pdb
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Form1.resources
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.exe
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.pdb
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.exe
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.pdb
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\PID CONTROL.exe
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\PID CONTROL.pdb
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Form1.resources
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\ZedGraph.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\ZedGraph.xml
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\de\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\es\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\fr\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\hu\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\it\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\ja\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\pt\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\ru\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\sk\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\sv\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\tr\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.exe
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.pdb
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\PID CONTROL.exe
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\PID CONTROL.pdb
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\ZedGraph.xml
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\de\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\es\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\fr\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\hu\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\it\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\ja\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\pt\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\ru\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\sk\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\sv\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\tr\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.csprojResolveAssemblyReference.cache
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Form1.resources
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+E:\tai lieu\tai lieu nghien cuu KIT\visual studio\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.csproj.GenerateResource.Cache
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.exe
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.pdb
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.csprojResolveAssemblyReference.cache
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Form1.resources
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.csproj.GenerateResource.Cache

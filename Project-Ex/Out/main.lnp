@@ -1,0 +1,27 @@
+--cpu Cortex-M4.fp
+"..\out\startup_stm32f40xx.o"
+"..\out\main.o"
+"..\out\system_stm32f4xx.o"
+"..\out\stm32f4xx_exti.o"
+"..\out\stm32f4xx_syscfg.o"
+"..\out\misc.o"
+"..\out\stm32f4xx_delay.o"
+"..\out\stm32f4xx_gpio.o"
+"..\out\stm32f4xx_rcc.o"
+"..\out\stm32f4xx_i2c.o"
+"..\out\stm32f4xx_tim.o"
+"..\out\stm32f4xx_it.o"
+"..\out\utils.o"
+"..\out\stm32f4xx_usart.o"
+"..\out\encoder.o"
+"..\out\pwm.o"
+"..\out\cambiengoc.o"
+"..\out\timer.o"
+"..\out\kalman.o"
+"..\out\calib.o"
+"..\out\uart.o"
+"..\out\pidcontrol.o"
+--library_type=microlib --strict --scatter "..\Out\main.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "..\Lst\main.map" -o ..\Out\main.axf

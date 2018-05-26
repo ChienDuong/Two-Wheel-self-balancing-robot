@@ -1,0 +1,20 @@
+AutoECO Report
+FILE-A: E:\DOAN\MAINBOARD\FIX\CHIEN_3.MAX
+FILE-B: E:\DOAN\ST_MAIN_TUNG\SPRAY_MAIN\SPRAY_MAIN.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package HEADER_8
+Adding component JP1
+Adding JP1.3 to net 0
+Adding JP1.4 to net EEP_SCL
+Adding JP1.5 to net EEP_SDA
+Adding JP1.1 to net VCC
+Deleting net OUT_3
+Deleting net OUT_2
+Deleting net OUT_1
+Deleting net OUT_0
+Deleting net IN_3
+Deleting net IN_2
+Deleting net IN_1
+Deleting net IN_0
+*EOF*
+No errors found

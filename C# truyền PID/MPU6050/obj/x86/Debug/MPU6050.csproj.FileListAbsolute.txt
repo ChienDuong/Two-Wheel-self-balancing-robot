@@ -1,0 +1,179 @@
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\MPU6050.csproj.GenerateResource.Cache
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.exe
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\PID CONTROL.exe
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\PID CONTROL.pdb
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\ZedGraph.xml
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.pdb
+C:\Users\Thanh\Desktop\PID CONTROL\PID CONTROL\obj\x86\Debug\MPU6050.Form1.resources
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\obj\x86\Debug\PID CONTROL.exe
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\obj\x86\Debug\PID CONTROL.pdb
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\PID CONTROL.exe
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\PID CONTROL.pdb
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\ZedGraph.xml
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\obj\x86\Debug\MPU6050.csprojResolveAssemblyReference.cache
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\obj\x86\Debug\MPU6050.Form1.resources
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+C:\Users\Thanh\Desktop\MPU6050\PID CONTROL\obj\x86\Debug\MPU6050.csproj.GenerateResource.Cache
+C:\Users\Thanh\Desktop\MPU6050\MPU6050\obj\x86\Debug\PID CONTROL.exe
+C:\Users\Thanh\Desktop\MPU6050\MPU6050\obj\x86\Debug\PID CONTROL.pdb
+D:\Thanh\Do An 1\MPU6050\MPU6050\obj\x86\Debug\PID CONTROL.exe
+D:\Thanh\Do An 1\MPU6050\MPU6050\obj\x86\Debug\PID CONTROL.pdb
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\obj\x86\Debug\PID CONTROL.exe
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\obj\x86\Debug\PID CONTROL.pdb
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\PID CONTROL.exe
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\PID CONTROL.pdb
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\ZedGraph.xml
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\obj\x86\Debug\MPU6050.csprojResolveAssemblyReference.cache
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\obj\x86\Debug\MPU6050.Form1.resources
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+C:\Users\chien\Desktop\Do An\MPU6050\MPU6050\obj\x86\Debug\MPU6050.csproj.GenerateResource.Cache
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\obj\x86\Debug\PID CONTROL.exe
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\obj\x86\Debug\PID CONTROL.pdb
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\PID CONTROL.exe
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\PID CONTROL.pdb
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\ZedGraph.xml
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\obj\x86\Debug\MPU6050.csprojResolveAssemblyReference.cache
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\obj\x86\Debug\MPU6050.Form1.resources
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+C:\Users\chien\Desktop\Do An 2\MPU6050\MPU6050\obj\x86\Debug\MPU6050.csproj.GenerateResource.Cache
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\obj\x86\Debug\PID CONTROL.exe
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\obj\x86\Debug\PID CONTROL.pdb
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\PID CONTROL.exe
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\PID CONTROL.pdb
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\ZedGraph.xml
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\obj\x86\Debug\MPU6050.csprojResolveAssemblyReference.cache
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\obj\x86\Debug\MPU6050.Form1.resources
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+C:\Users\chien\Desktop\Do An 2\MPU6050_1\MPU6050\obj\x86\Debug\MPU6050.csproj.GenerateResource.Cache
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\obj\x86\Debug\PID CONTROL.exe
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\obj\x86\Debug\PID CONTROL.pdb
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\PID CONTROL.exe
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\PID CONTROL.pdb
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\ZedGraph.xml
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\obj\x86\Debug\MPU6050.csprojResolveAssemblyReference.cache
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\obj\x86\Debug\MPU6050.Form1.resources
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+C:\Users\chien\Desktop\Do An 2\MPU6050_final\MPU6050\obj\x86\Debug\MPU6050.csproj.GenerateResource.Cache
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\obj\x86\Debug\PID CONTROL.exe
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\obj\x86\Debug\PID CONTROL.pdb
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\PID CONTROL.exe
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\PID CONTROL.pdb
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\ZedGraph.xml
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\de\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\es\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\fr\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\hu\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\it\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\ja\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\pt\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\ru\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\sk\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\sv\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\tr\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\obj\x86\Debug\MPU6050.csprojResolveAssemblyReference.cache
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\obj\x86\Debug\MPU6050.Form1.resources
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+E:\Luan van\DuongDuyChien_41100371_Luanvantotnghiep\C#\C# điều khiển vị trí\MPU6050\obj\x86\Debug\MPU6050.csproj.GenerateResource.Cache
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\obj\x86\Debug\PID CONTROL.exe
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\obj\x86\Debug\PID CONTROL.pdb
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\obj\x86\Debug\MPU6050.csprojResolveAssemblyReference.cache
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\obj\x86\Debug\MPU6050.Form1.resources
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\obj\x86\Debug\MPU6050.csproj.GenerateResource.Cache
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\PID CONTROL.exe
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\PID CONTROL.pdb
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\ZedGraph.xml
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\de\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\es\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\fr\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\hu\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\it\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\ja\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\pt\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\ru\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\sk\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\sv\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\tr\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Luan van\C# 25_05_2016\C# điều khiển vị trí\MPU6050\bin\Debug\zh-tw\ZedGraph.resources.dll

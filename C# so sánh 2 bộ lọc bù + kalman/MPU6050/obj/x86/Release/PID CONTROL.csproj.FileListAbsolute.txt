@@ -1,0 +1,24 @@
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Release\ResolveAssemblyReference.cache
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Release\PID_CONTROL.Form1.resources
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Release\PID_CONTROL.Properties.Resources.resources
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Release\GenerateResource.read.1.tlog
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Release\GenerateResource.write.1.tlog
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Release\PID CONTROL.pdb
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\PID CONTROL.exe
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\PID CONTROL.pdb
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\ZedGraph.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\ZedGraph.xml
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\de\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\es\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\fr\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\hu\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\it\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\ja\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\pt\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\ru\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\sk\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\sv\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\tr\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\zh-cn\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\bin\Release\zh-tw\ZedGraph.resources.dll
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Release\PID CONTROL.exe
